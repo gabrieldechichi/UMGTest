@@ -1,0 +1,16 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-UMGTest.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UMGTestEditor\Development\Engine\SharedPCH.Engine.h.obj"
+"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\UMGTest.cpp.obj"
+"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\UMGTestGameModeBase.cpp.obj"
+"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\UMGTest.init.gen.cpp.obj"
+"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\UMGTestGameModeBase.gen.cpp.obj"
+"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\Default.rc2.res"
+/OUT:"C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\UE4Editor-UMGTest.lib"
+/INCLUDE:IMPLEMENT_MODULE_UMGTest

@@ -1,0 +1,3 @@
+C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\Definitions.UMGTest.h
+C:\Dev\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/GeneratedCppIncludes.h
+C:\Dev\Unreal\UE_4.22\Engine\Source\Runtime\CoreUObject\Public\UObject/MetaData.h

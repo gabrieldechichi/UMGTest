@@ -1,0 +1,7 @@
+C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\Definitions.UMGTest.h
+c:\dev\projects\umgtest\umgtest\source\umgtest\UMGTestGameModeBase.h
+C:\Dev\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\GameFramework/GameModeBase.h
+C:\Dev\Unreal\UE_4.22\Engine\Source\Runtime\Engine\Classes\Engine/ServerStatReplicator.h
+C:\Dev\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\ServerStatReplicator.generated.h
+C:\Dev\Unreal\UE_4.22\Engine\Intermediate\Build\Win64\UE4Editor\Inc\Engine\GameModeBase.generated.h
+C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Inc\UMGTest\UMGTestGameModeBase.generated.h

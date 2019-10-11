@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\UMGTest.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{B608076F-A753-4ED2-8FFB-3F2EDD3F3BF4}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UMGTest.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\UMGTestEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{85619960-BB36-4455-89B7-8D57D67EAE4B}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\UMGTest">
+      <UniqueIdentifier>{1FC19D1D-FBC3-45FB-9A34-B26294B26814}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\UMGTest\UMGTest.Build.cs">
+      <Filter>Source\UMGTest</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\UMGTest\UMGTest.cpp">
+      <Filter>Source\UMGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGTest\UMGTest.h">
+      <Filter>Source\UMGTest</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\UMGTest\UMGTestGameModeBase.cpp">
+      <Filter>Source\UMGTest</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\UMGTest\UMGTestGameModeBase.h">
+      <Filter>Source\UMGTest</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>

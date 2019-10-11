@@ -1,0 +1,3 @@
+C:\Dev\projects\UMGTest\UMGTest\Source\UMGTest\UMGTest.Build.cs
+C:\Dev\projects\UMGTest\UMGTest\Source\UMGTest.Target.cs
+C:\Dev\projects\UMGTest\UMGTest\Source\UMGTestEditor.Target.cs

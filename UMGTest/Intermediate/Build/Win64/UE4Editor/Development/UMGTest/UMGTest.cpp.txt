@@ -1,0 +1,2 @@
+C:\Dev\projects\UMGTest\UMGTest\Intermediate\Build\Win64\UE4Editor\Development\UMGTest\Definitions.UMGTest.h
+c:\dev\projects\umgtest\umgtest\source\umgtest\UMGTest.h
